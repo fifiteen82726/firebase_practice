@@ -3,12 +3,12 @@
 [debug] CLI Version:  3.4.0
 [debug] Platform:     darwin
 [debug] Node Version: v4.4.7
-[debug] Time:         Sun Mar 05 2017 01:23:59 GMT+0800 (CST)
+[debug] Time:         Sun Mar 05 2017 18:48:22 GMT+0800 (CST)
 [debug] ----------------------------------------------------------------------
 [debug] 
 [info] Starting Firebase development server...
 [info] 
-[info] Project Directory: /Users/Coda/Desktop/side_project/friendlychat/web-start
+[info] Project Directory: /Users/Coda/Desktop/firebase_practice/friendlychat
 [info] Public Directory: ./
 [info] 
 [info] Server listening at: http://localhost:5000
